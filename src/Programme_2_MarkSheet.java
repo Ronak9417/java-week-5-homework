@@ -1,13 +1,11 @@
-package homework_week_9;
+
 
 import java.util.Scanner;
 
 /**
- * Created by Jay Vaghani
+ * Rewrite the student mark sheet programme using if else and while loop. (Week-7 Homework)
  */
-/*
-Rewrite the student mark sheet programme using if else and while loop. (Week-7 Homework)
- */
+
 public class Programme_2_MarkSheet {
     public static void main(String[] args) {
         //Scanner declaration for reading input from console
